@@ -1,4 +1,8 @@
-# TensorFlow for Java
+git clone https://github.com/yourusername/forked-repository.git
+cd forked-repository
+git remote remove origin  # This removes the reference to the original fork.
+git remote add origin https://github.com/yourusername/new-repository.git  # Link to your new repository
+git push -u origin main  # Push it to your new GitHub repository# TensorFlow for Java
 
 ## Welcome to the Java world of TensorFlow!
 
